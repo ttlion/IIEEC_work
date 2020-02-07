@@ -11,6 +11,7 @@ Preprocessing files created for IIEEC, in the 1st Semester of 19/20, at IST, Lis
 ### To run the file discretize_dates.py:
 
 **python discretize_dates.py -h**: Run this to get usage of program, with description of inputs
+
 **python discretize_dates.py -e**: Run this to get example of input file
 
 -----------------------------------------------------------------------------------
@@ -29,4 +30,5 @@ Preprocessing files created for IIEEC, in the 1st Semester of 19/20, at IST, Lis
 
 **python fill_data.py -d**: Run this to get example of the discretization file
 
+-----------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
